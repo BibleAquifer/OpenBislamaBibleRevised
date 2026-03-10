@@ -4,7 +4,7 @@ This repository (`OpenBislamaBibleRevised`) contains an Aquifer Bible resource w
 
 ## License
 
-_Open Bislama Bible Revised_ © 2012 [Bible Society of the South Pacific](https://bible.org.fj/)
+_Open Bislama Bible Revised_ © 2024 [Mission Mutual](https://missionmutual.org)
 
 This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
 
