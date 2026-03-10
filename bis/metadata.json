@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-03-10T08:35:29.151013"
+"dateCreated": "2026-03-10T09:17:06.053689"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "OpenBislamaBibleRevised": {
-"timestamp": "2026-03-10T08:35:29.151013"
+"timestamp": "2026-03-10T09:17:06.053689"
 }
 }
 },
@@ -30491,7 +30491,7 @@
 },
 "usx/01GENOBBR.usx": {
 "mimeType": "application/xml",
-"size": 475411,
+"size": 491683,
 "scope": {
 "GEN": []
 }
@@ -30505,7 +30505,7 @@
 },
 "usx/02EXOOBBR.usx": {
 "mimeType": "application/xml",
-"size": 377932,
+"size": 394834,
 "scope": {
 "EXO": []
 }
@@ -30519,7 +30519,7 @@
 },
 "usx/03LEVOBBR.usx": {
 "mimeType": "application/xml",
-"size": 273129,
+"size": 282253,
 "scope": {
 "LEV": []
 }
@@ -30533,7 +30533,7 @@
 },
 "usx/04NUMOBBR.usx": {
 "mimeType": "application/xml",
-"size": 344061,
+"size": 355399,
 "scope": {
 "NUM": []
 }
@@ -30547,7 +30547,7 @@
 },
 "usx/05DEUOBBR.usx": {
 "mimeType": "application/xml",
-"size": 346861,
+"size": 370130,
 "scope": {
 "DEU": []
 }
@@ -30561,7 +30561,7 @@
 },
 "usx/06JOSOBBR.usx": {
 "mimeType": "application/xml",
-"size": 201740,
+"size": 206712,
 "scope": {
 "JOS": []
 }
@@ -30575,7 +30575,7 @@
 },
 "usx/07JDGOBBR.usx": {
 "mimeType": "application/xml",
-"size": 216010,
+"size": 223095,
 "scope": {
 "JDG": []
 }
@@ -30589,7 +30589,7 @@
 },
 "usx/08RUTOBBR.usx": {
 "mimeType": "application/xml",
-"size": 29763,
+"size": 30450,
 "scope": {
 "RUT": []
 }
@@ -30603,7 +30603,7 @@
 },
 "usx/091SAOBBR.usx": {
 "mimeType": "application/xml",
-"size": 281157,
+"size": 287700,
 "scope": {
 "1SA": []
 }
@@ -30617,7 +30617,7 @@
 },
 "usx/102SAOBBR.usx": {
 "mimeType": "application/xml",
-"size": 231535,
+"size": 241908,
 "scope": {
 "2SA": []
 }
@@ -30631,7 +30631,7 @@
 },
 "usx/111KIOBBR.usx": {
 "mimeType": "application/xml",
-"size": 259819,
+"size": 267667,
 "scope": {
 "1KI": []
 }
@@ -30645,7 +30645,7 @@
 },
 "usx/122KIOBBR.usx": {
 "mimeType": "application/xml",
-"size": 257399,
+"size": 264734,
 "scope": {
 "2KI": []
 }
@@ -30659,7 +30659,7 @@
 },
 "usx/131CHOBBR.usx": {
 "mimeType": "application/xml",
-"size": 265059,
+"size": 274337,
 "scope": {
 "1CH": []
 }
@@ -30673,7 +30673,7 @@
 },
 "usx/142CHOBBR.usx": {
 "mimeType": "application/xml",
-"size": 291697,
+"size": 300476,
 "scope": {
 "2CH": []
 }
@@ -30687,7 +30687,7 @@
 },
 "usx/15EZROBBR.usx": {
 "mimeType": "application/xml",
-"size": 94156,
+"size": 96170,
 "scope": {
 "EZR": []
 }
@@ -30701,7 +30701,7 @@
 },
 "usx/16NEHOBBR.usx": {
 "mimeType": "application/xml",
-"size": 150843,
+"size": 160652,
 "scope": {
 "NEH": []
 }
@@ -30715,7 +30715,7 @@
 },
 "usx/17ESTOBBR.usx": {
 "mimeType": "application/xml",
-"size": 60950,
+"size": 61426,
 "scope": {
 "EST": []
 }
@@ -30729,7 +30729,7 @@
 },
 "usx/18JOBOBBR.usx": {
 "mimeType": "application/xml",
-"size": 363890,
+"size": 419544,
 "scope": {
 "JOB": []
 }
@@ -30743,7 +30743,7 @@
 },
 "usx/19PSAOBBR.usx": {
 "mimeType": "application/xml",
-"size": 904964,
+"size": 1117988,
 "scope": {
 "PSA": []
 }
@@ -30757,7 +30757,7 @@
 },
 "usx/20PROOBBR.usx": {
 "mimeType": "application/xml",
-"size": 241563,
+"size": 249006,
 "scope": {
 "PRO": []
 }
@@ -30771,7 +30771,7 @@
 },
 "usx/21ECCOBBR.usx": {
 "mimeType": "application/xml",
-"size": 70499,
+"size": 71991,
 "scope": {
 "ECC": []
 }
@@ -30785,7 +30785,7 @@
 },
 "usx/22SNGOBBR.usx": {
 "mimeType": "application/xml",
-"size": 59891,
+"size": 68830,
 "scope": {
 "SNG": []
 }
@@ -30799,7 +30799,7 @@
 },
 "usx/23ISAOBBR.usx": {
 "mimeType": "application/xml",
-"size": 613187,
+"size": 676357,
 "scope": {
 "ISA": []
 }
@@ -30813,7 +30813,7 @@
 },
 "usx/24JEROBBR.usx": {
 "mimeType": "application/xml",
-"size": 557986,
+"size": 599375,
 "scope": {
 "JER": []
 }
@@ -30827,7 +30827,7 @@
 },
 "usx/25LAMOBBR.usx": {
 "mimeType": "application/xml",
-"size": 65207,
+"size": 75069,
 "scope": {
 "LAM": []
 }
@@ -30841,7 +30841,7 @@
 },
 "usx/26EZKOBBR.usx": {
 "mimeType": "application/xml",
-"size": 438527,
+"size": 452288,
 "scope": {
 "EZK": []
 }
@@ -30855,7 +30855,7 @@
 },
 "usx/27DANOBBR.usx": {
 "mimeType": "application/xml",
-"size": 129088,
+"size": 133802,
 "scope": {
 "DAN": []
 }
@@ -30869,7 +30869,7 @@
 },
 "usx/28HOSOBBR.usx": {
 "mimeType": "application/xml",
-"size": 88826,
+"size": 92281,
 "scope": {
 "HOS": []
 }
@@ -30883,7 +30883,7 @@
 },
 "usx/29JOLOBBR.usx": {
 "mimeType": "application/xml",
-"size": 40830,
+"size": 48517,
 "scope": {
 "JOL": []
 }
@@ -30897,7 +30897,7 @@
 },
 "usx/30AMOOBBR.usx": {
 "mimeType": "application/xml",
-"size": 68370,
+"size": 72177,
 "scope": {
 "AMO": []
 }
@@ -30911,7 +30911,7 @@
 },
 "usx/31OBAOBBR.usx": {
 "mimeType": "application/xml",
-"size": 13894,
+"size": 16468,
 "scope": {
 "OBA": []
 }
@@ -30925,7 +30925,7 @@
 },
 "usx/32JONOBBR.usx": {
 "mimeType": "application/xml",
-"size": 15499,
+"size": 16493,
 "scope": {
 "JON": []
 }
@@ -30939,7 +30939,7 @@
 },
 "usx/33MICOBBR.usx": {
 "mimeType": "application/xml",
-"size": 47110,
+"size": 49269,
 "scope": {
 "MIC": []
 }
@@ -30953,7 +30953,7 @@
 },
 "usx/34NAMOBBR.usx": {
 "mimeType": "application/xml",
-"size": 18430,
+"size": 19418,
 "scope": {
 "NAM": []
 }
@@ -30967,7 +30967,7 @@
 },
 "usx/35HABOBBR.usx": {
 "mimeType": "application/xml",
-"size": 23604,
+"size": 25489,
 "scope": {
 "HAB": []
 }
@@ -30981,7 +30981,7 @@
 },
 "usx/36ZEPOBBR.usx": {
 "mimeType": "application/xml",
-"size": 24150,
+"size": 25957,
 "scope": {
 "ZEP": []
 }
@@ -30995,7 +30995,7 @@
 },
 "usx/37HAGOBBR.usx": {
 "mimeType": "application/xml",
-"size": 12901,
+"size": 13345,
 "scope": {
 "HAG": []
 }
@@ -31009,7 +31009,7 @@
 },
 "usx/38ZECOBBR.usx": {
 "mimeType": "application/xml",
-"size": 83744,
+"size": 88519,
 "scope": {
 "ZEC": []
 }
@@ -31023,7 +31023,7 @@
 },
 "usx/39MALOBBR.usx": {
 "mimeType": "application/xml",
-"size": 23810,
+"size": 24960,
 "scope": {
 "MAL": []
 }
@@ -31037,7 +31037,7 @@
 },
 "usx/40MATOBBR.usx": {
 "mimeType": "application/xml",
-"size": 346638,
+"size": 377924,
 "scope": {
 "MAT": []
 }
@@ -31051,7 +31051,7 @@
 },
 "usx/41MRKOBBR.usx": {
 "mimeType": "application/xml",
-"size": 206747,
+"size": 223059,
 "scope": {
 "MRK": []
 }
@@ -31065,7 +31065,7 @@
 },
 "usx/42LUKOBBR.usx": {
 "mimeType": "application/xml",
-"size": 363674,
+"size": 389909,
 "scope": {
 "LUK": []
 }
@@ -31079,7 +31079,7 @@
 },
 "usx/43JHNOBBR.usx": {
 "mimeType": "application/xml",
-"size": 251869,
+"size": 262343,
 "scope": {
 "JHN": []
 }
@@ -31093,7 +31093,7 @@
 },
 "usx/44ACTOBBR.usx": {
 "mimeType": "application/xml",
-"size": 316295,
+"size": 329756,
 "scope": {
 "ACT": []
 }
@@ -31107,7 +31107,7 @@
 },
 "usx/45ROMOBBR.usx": {
 "mimeType": "application/xml",
-"size": 149497,
+"size": 157741,
 "scope": {
 "ROM": []
 }
@@ -31121,7 +31121,7 @@
 },
 "usx/461COOBBR.usx": {
 "mimeType": "application/xml",
-"size": 141241,
+"size": 147083,
 "scope": {
 "1CO": []
 }
@@ -31135,7 +31135,7 @@
 },
 "usx/472COOBBR.usx": {
 "mimeType": "application/xml",
-"size": 88889,
+"size": 91548,
 "scope": {
 "2CO": []
 }
@@ -31149,7 +31149,7 @@
 },
 "usx/48GALOBBR.usx": {
 "mimeType": "application/xml",
-"size": 47112,
+"size": 48801,
 "scope": {
 "GAL": []
 }
@@ -31163,7 +31163,7 @@
 },
 "usx/49EPHOBBR.usx": {
 "mimeType": "application/xml",
-"size": 52210,
+"size": 54530,
 "scope": {
 "EPH": []
 }
@@ -31177,7 +31177,7 @@
 },
 "usx/50PHPOBBR.usx": {
 "mimeType": "application/xml",
-"size": 32869,
+"size": 33941,
 "scope": {
 "PHP": []
 }
@@ -31191,7 +31191,7 @@
 },
 "usx/51COLOBBR.usx": {
 "mimeType": "application/xml",
-"size": 36829,
+"size": 39502,
 "scope": {
 "COL": []
 }
@@ -31205,7 +31205,7 @@
 },
 "usx/521THOBBR.usx": {
 "mimeType": "application/xml",
-"size": 28527,
+"size": 29522,
 "scope": {
 "1TH": []
 }
@@ -31219,7 +31219,7 @@
 },
 "usx/532THOBBR.usx": {
 "mimeType": "application/xml",
-"size": 16859,
+"size": 17254,
 "scope": {
 "2TH": []
 }
@@ -31233,7 +31233,7 @@
 },
 "usx/541TIOBBR.usx": {
 "mimeType": "application/xml",
-"size": 39533,
+"size": 40525,
 "scope": {
 "1TI": []
 }
@@ -31247,7 +31247,7 @@
 },
 "usx/552TIOBBR.usx": {
 "mimeType": "application/xml",
-"size": 28647,
+"size": 30340,
 "scope": {
 "2TI": []
 }
@@ -31261,7 +31261,7 @@
 },
 "usx/56TITOBBR.usx": {
 "mimeType": "application/xml",
-"size": 15769,
+"size": 16408,
 "scope": {
 "TIT": []
 }
@@ -31275,7 +31275,7 @@
 },
 "usx/57PHMOBBR.usx": {
 "mimeType": "application/xml",
-"size": 8341,
+"size": 8970,
 "scope": {
 "PHM": []
 }
@@ -31289,7 +31289,7 @@
 },
 "usx/58HEBOBBR.usx": {
 "mimeType": "application/xml",
-"size": 119677,
+"size": 129885,
 "scope": {
 "HEB": []
 }
@@ -31303,7 +31303,7 @@
 },
 "usx/59JASOBBR.usx": {
 "mimeType": "application/xml",
-"size": 35879,
+"size": 37248,
 "scope": {
 "JAS": []
 }
@@ -31317,7 +31317,7 @@
 },
 "usx/601PEOBBR.usx": {
 "mimeType": "application/xml",
-"size": 40407,
+"size": 42960,
 "scope": {
 "1PE": []
 }
@@ -31331,7 +31331,7 @@
 },
 "usx/612PEOBBR.usx": {
 "mimeType": "application/xml",
-"size": 23574,
+"size": 24378,
 "scope": {
 "2PE": []
 }
@@ -31345,7 +31345,7 @@
 },
 "usx/621JNOBBR.usx": {
 "mimeType": "application/xml",
-"size": 34677,
+"size": 35576,
 "scope": {
 "1JN": []
 }
@@ -31359,7 +31359,7 @@
 },
 "usx/632JNOBBR.usx": {
 "mimeType": "application/xml",
-"size": 5001,
+"size": 5339,
 "scope": {
 "2JN": []
 }
@@ -31373,7 +31373,7 @@
 },
 "usx/643JNOBBR.usx": {
 "mimeType": "application/xml",
-"size": 4734,
+"size": 5460,
 "scope": {
 "3JN": []
 }
@@ -31387,7 +31387,7 @@
 },
 "usx/65JUDOBBR.usx": {
 "mimeType": "application/xml",
-"size": 10771,
+"size": 11641,
 "scope": {
 "JUD": []
 }
@@ -31401,7 +31401,7 @@
 },
 "usx/66REVOBBR.usx": {
 "mimeType": "application/xml",
-"size": 173875,
+"size": 192573,
 "scope": {
 "REV": []
 }
